@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Funko Pop! Shoto Todoroki #1348",
+      "price": "20",
+      "image": "https://thecomicstore.com.sv/storage/products/W8Zn2AMf6qwzZTgTxfnB2NNgz99rZoiZXRjdMSxj.png",
+      "id": 1
+    },
+    {
+      "name": "Funko Pop! Izuko Midoriya #1140",
+      "price": "25",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi6ag-R54ECJHbI2qYj3K-cBwARatX3PKeDw&s",
+      "id": 2
+    },
+    {
+      "name": "Funko Pop! My Hero Academia Hawks #1141",
+      "price": "20",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzCe-2n4eJKhLu9GosG3GjN35zTpDLBCREw&s",
+      "id": 3
+    },
+    {
+      "name": "Funko Pop! Hero Academia Kyoka Jiro #114",
+      "price": "25",
+      "image": "https://nizestore.com/cdn/shop/files/funko-pop-kyoka-jiro-1143-my-hero-academia-481159.jpg?v=1713996802&width=1946",
+      "id": 5
+    },
+    {
+      "name": "Funko Pop! My Hero Bakugo Katsuki #249",
+      "price": "20",
+      "image": "https://nizestore.com/cdn/shop/files/funko-pop-bakugo-katsuki-my-hero-academia-249-580864.jpg?v=1713996511&width=1946",
+      "id": 6
+    },
+    {
+      "name": "Funko Pop! My Hero Tamaki Amajiki #1005",
+      "price": "25",
+      "image": "https://nizestore.com/cdn/shop/files/funko-pop-tamaki-amajiki-1005-my-hero-academia-424817.jpg?v=1713997244&width=1445",
+      "id": 7
+    }
+  ]
+}
